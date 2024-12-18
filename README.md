@@ -23,7 +23,7 @@ This script is a powerful utility for searching specific keywords within CSV fil
 
 ## Installation
 
-1. Clone or download the repository.
+1. Clone or download the repository. "git clone https://github.com/threatlabindonesia/csvfilechecke.git"
 2. Ensure Python is installed on your machine.
 3. Install any necessary dependencies (if not included in your environment).
 
